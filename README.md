@@ -1,1 +1,2 @@
-# xiti
+python编程从入门到精通
+Eric Matthes
